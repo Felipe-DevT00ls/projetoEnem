@@ -6,7 +6,7 @@ para o enem.
 
 ## Sobre
 
-Em 2019, com a formatura dos alunos do Instituto Federal estava se aproximando, foi proposto que nosso tcc fosse desenvolvido com a temática de um site sobre aulas e atividades para estudandtes que queriam treinar para o enem.
+Em 2019, com a formatura dos alunos do Instituto Federal estava se aproximando, foi proposto que nosso tcc fosse desenvolvido com a temática de um site sobre aulas e atividades para estudantes que queriam treinar para o enem.
 
 O projeto teve seu ínicio aproximadamente em Setembro de 2019 e sua finalização em dezembro de 2019.
 
