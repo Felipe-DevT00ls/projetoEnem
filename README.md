@@ -26,8 +26,27 @@ O projeto teve seu ínicio aproximadamente em Setembro de 2019 e sua finalizaç�
 - Mysql
 
 ## Screenshots do projeto
-### Pagina Inicial (não logado)
 
-<h1 align="center">
-  <img src="./scrennshots/home.png" />
-</h1>
+### Pagina Inicial (não logado)
+![home](screenshots/home.png)
+<br/><br/><br/>
+
+### Pagina Inicial (logado)
+![logado](screenshots/logado.png)
+<br/><br/><br/>
+
+### Menu 
+![menu](screenshots/menu.png)
+<br/><br/><br/>
+
+### Aulas
+![aulas](screenshots/aulas.png)
+<br/><br/><br/>
+
+### Cadastro de Provas
+![aulas](screenshots/cadastra_prova.png)
+<br/><br/><br/>
+
+### Cadastro de Assunto
+![aulas](screenshots/cadastro_assunto.png)
+<br/><br/><br/>
