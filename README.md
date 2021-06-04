@@ -25,4 +25,9 @@ O projeto teve seu ínicio aproximadamente em Setembro de 2019 e sua finalizaç�
 - Php
 - Mysql
 
+## Screenshots do projeto
+### Pagina Inicial (não logado)
 
+<h1 align="center">
+  <img src="./scrennshots/home.png" />
+</h1>
