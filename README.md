@@ -44,9 +44,9 @@ O projeto teve seu ínicio aproximadamente em Setembro de 2019 e sua finalizaç�
 <br/><br/><br/>
 
 ### Cadastro de Provas
-![aulas](screenshots/cadastra_prova.png)
+![prova](screenshots/cadastra_prova.png)
 <br/><br/><br/>
 
 ### Cadastro de Assunto
-![aulas](screenshots/cadastro_assunto.png)
+![assunto](screenshots/cadastra_assunto.png)
 <br/><br/><br/>
